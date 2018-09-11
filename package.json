@@ -1,0 +1,17 @@
+{
+  "name": "completeweb-application",
+  "version": "0.1.0",
+  "main": "app.js",
+  "author": "Rajeev Sarathe",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "~4.13.3",
+    "request": "^2.88.0",
+    "mongodb": "^3.1.4",
+    "express-session": "*"
+  }
+}
